@@ -1,0 +1,110 @@
+body {
+background-color: sandybrown;
+}
+
+nav { 
+    background: #333;
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media(min-width: 1440px) {
+.nav {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+
+#body {
+padding: 20px;
+font-size: 18px;
+text-align: center;
+background-color: rgb(220, 20, 143);
+}
+
+.banner {
+    color: white;
+    background-color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 300px;
+    padding-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a70757+9,900843+100 */
+background: #a70757; /* Old browsers */
+background: -moz-linear-gradient(top,  #a70757 9%, #900843 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #a70757 9%,#900843 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #a70757 9%,#900843 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a70757', endColorstr='#900843',GradientType=0 ); /* IE6-9 */
+}
+
+.banner--small {
+    height: 150px;
+}
+
+@media(min-width: )
+
+footer,
+#content {
+    text-align: left;
+    width: calc(100% - 230px);
+    margin: 0 auto 0 auto;
+}
+
+#content1 {
+    background-color: chartreuse;
+    height: 30vh;
+    min-height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+span.title{
+    font-family: cursive;
+}
+
+span.version {
+    font-size: 9px;
+    display: block;
+    position: relative;
+    top: -8px;
+    left: 5px;
+}
+
+@media
+
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.float-right {
+    float: right;
+    margin: 20px;
+}
+
+@media-scr(max-width: 640px) {
+    .float-right{ 
+        float: right;
+        width: 100%;
+        height: auto;
+    }
+}
+
+.bred {
+    border: 1px solid red;
+ {
+
+@media(max-width: 320px) {
+    
+}
+
